@@ -96,9 +96,16 @@ Learning
 
 While making this project, I learned how to divide a Python program into different files . I also practiced using functions, loops, dictionaries and file handling.
 
+![alt text](<Screenshot (69)-2.png>)
+![alt text](<Screenshot (70).png>)
+![alt text](<Screenshot (71).png>)
+![alt text](<Screenshot (72)-1.png>)
+
 Author
 
 Mansha Upadhayay
 
 B.Tech CSE
 VIT Bhopal University
+
+
